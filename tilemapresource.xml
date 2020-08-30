@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>Poole_Fix_Rend.tif</Title>
+      <Title>bournemouth_fix_modified_rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-1.91036798362878" miny="50.70539260260993" maxx="-1.87601174946783" maxy="50.72008877303475"/>
-      <Origin x="-1.91036798362878" y="50.70539260260993"/>
+      <BoundingBox minx="-1.90628789333418" miny="50.71858432964729" maxx="-1.90219462897388" maxy="50.72759103466058"/>
+      <Origin x="-1.90628789333418" y="50.71858432964729"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
-        <TileSet href="17" units-per-pixel="1.19432856674194" order="17"/>
+        <TileSet href="12" units-per-pixel="38.21851413574219" order="12"/>
+        <TileSet href="13" units-per-pixel="19.10925706787109" order="13"/>
+        <TileSet href="14" units-per-pixel="9.55462853393555" order="14"/>
       </TileSets>
     </TileMap>
     
