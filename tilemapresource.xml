@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>bournemouth_fix_modified_rend.tif</Title>
+      <Title>SU11SW.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-1.90628789333418" miny="50.71858432964729" maxx="-1.90219462897388" maxy="50.72759103466058"/>
-      <Origin x="-1.90628789333418" y="50.71858432964729"/>
+      <BoundingBox minx="-1.85920263279483" miny="50.88934061507793" maxx="-1.81651504740889" maxy="50.89839356516998"/>
+      <Origin x="-1.85920263279483" y="50.88934061507793"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="12" units-per-pixel="38.21851413574219" order="12"/>
