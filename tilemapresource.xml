@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>SU11SW.tif</Title>
+      <Title>SU0918_rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-1.85920263279483" miny="50.88934061507793" maxx="-1.81651504740889" maxy="50.89839356516998"/>
-      <Origin x="-1.85920263279483" y="50.88934061507793"/>
+      <BoundingBox minx="-1.87322463820180" miny="50.96133807096541" maxx="-1.85895452800154" maxy="50.97034910143475"/>
+      <Origin x="-1.87322463820180" y="50.96133807096541"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="12" units-per-pixel="38.21851413574219" order="12"/>
